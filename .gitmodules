@@ -1,0 +1,3 @@
+[submodule "submodules/my-submodule-lib"]
+	path = submodules/my-submodule-lib
+	url = https://github.com/madhusudhanan-jayaram/my-submodule-lib.git
